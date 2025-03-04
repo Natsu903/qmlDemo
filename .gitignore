@@ -1,2 +1,6 @@
 /src/build
 /src/CMakeLists.txt.user
+/bin/mingw/player.exe
+/bin/msvc/player.exe
+/bin/msvc/player.ilk
+/bin/msvc/player.pdb
